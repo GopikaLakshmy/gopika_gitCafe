@@ -6,3 +6,4 @@
 - Maple Oat Sticky Cake 
 - Saudi Arabian Kahwa 
 - Vietnamese Egg Coffee 
+- [Ice Tea](recipes/ice_tea.txt)
